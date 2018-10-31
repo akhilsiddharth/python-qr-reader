@@ -1,6 +1,9 @@
 # python-qr-reader
 
-This is a QR code reader using Python for an integrated/external camera module.
+This is a QR code reader built in Python for an integrated/external camera module.
+QR code is mainly used in the mobile payments sector in developing countries.
+A QR is widely used because of it extraordinary versatality.
+It was first introduced by Denso wave, A Toyota Company.
 
 ![Hello :)](http://cdnqrcgde.s3-eu-west-1.amazonaws.com/wp-content/uploads/2013/11/jpeg.jpg)
 
